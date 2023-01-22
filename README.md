@@ -2,7 +2,7 @@
 
 based heavily on ch32v003 project https://github.com/nj-designs/libch32v
 
-cmake toolchain based on https://github.com/jobroe/cmake-arm-embedded/blob/master/toolchain-arm-none-eabi.cmake and the makefrile from ch32v003
+cmake toolchain based on https://github.com/jobroe/cmake-arm-embedded/blob/master/toolchain-arm-none-eabi.cmake and the makefile from ch32v003
 
 not complete, not working, but hopefully useful to someone
 
